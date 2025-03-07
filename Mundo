@@ -1,0 +1,4 @@
+Hi, estudia como debe ser <bloger>
+#include <stdio.h>
+int main() {
+    printf("Causa de corazòn!")
