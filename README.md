@@ -1,2 +1,2 @@
 # COMPETENCIAS-DIGITALES
-Hi, estudia como debe ser //blogar//
+Hi, estudia como debe ser <bloger>
