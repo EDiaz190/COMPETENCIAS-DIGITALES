@@ -1,5 +1,5 @@
   LISTA DE TAREAS
-body {URGENTE
+{URGENTE
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
@@ -10,7 +10,7 @@ body {URGENTE
     height: 100vh;
 }
 
-.container {
+.{
     background-color: white;
     padding: 20px;
     border-radius: 10px;
